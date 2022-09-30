@@ -1,3 +1,4 @@
+import React from "react";
 import { UserStyled } from "./styled";
 interface Props {
   name: string;

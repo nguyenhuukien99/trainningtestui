@@ -1,5 +1,7 @@
 import renderer from "react-test-renderer";
-import User from "./user";
+import User from "../user";
+import React from "react";
+
 // Updated test case with a Link to a different address
 it("renders correctly", () => {
   const tree = renderer
