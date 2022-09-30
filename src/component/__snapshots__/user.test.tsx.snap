@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly: 
+  <UserStyled>
+  <div className="info">
+    <div className="text">
+      <div className="name">Ho va ten:Nguyen Huu Kien</div>
+      <div className="age">Tuoi:18</div>
+      <div className="birthday">Ngay Sinh:20/04/1999</div>
+    </div>
+    <div className="image">
+      <img
+        src="nancy"
+        alt="nancy"
+      />
+    </div>
+  </div>
+</UserStyled>
+   1`] = `
+<div
+  className="sc-bcXHqe bBIowY"
+>
+  <div
+    className="info"
+  >
+    <div
+      className="text"
+    >
+      <div
+        className="name"
+      >
+        Ho va ten:
+        Nguyen Huu Kien
+      </div>
+      <div
+        className="age"
+      >
+        Tuoi:
+        18
+      </div>
+      <div
+        className="birthday"
+      >
+        Ngay Sinh:
+        20/04/1999
+      </div>
+    </div>
+    <div
+      className="image"
+    >
+      <img
+        alt="nancy"
+        src="nancy"
+      />
+    </div>
+  </div>
+</div>
+`;
