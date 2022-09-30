@@ -1,22 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders correctly: 
-  <UserStyled>
-  <div className="info">
-    <div className="text">
-      <div className="name">Ho va ten:Nguyen Huu Kien</div>
-      <div className="age">Tuoi:18</div>
-      <div className="birthday">Ngay Sinh:20/04/1999</div>
-    </div>
-    <div className="image">
-      <img
-        src="nancy"
-        alt="nancy"
-      />
-    </div>
-  </div>
-</UserStyled>
-   1`] = `
+exports[`renders correctly 1`] = `
 <div
   className="sc-bcXHqe bBIowY"
 >
@@ -36,7 +20,7 @@ exports[`renders correctly:
         className="age"
       >
         Tuoi:
-        18
+        23
       </div>
       <div
         className="birthday"
@@ -50,7 +34,7 @@ exports[`renders correctly:
     >
       <img
         alt="nancy"
-        src="nancy"
+        src="https://znews-photo.zingcdn.me/w660/Uploaded/unvjuas/2021_01_12/106228561_288966105802103_4617392174817760819_n.jpg"
       />
     </div>
   </div>
